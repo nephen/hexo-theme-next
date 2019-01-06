@@ -415,11 +415,11 @@ gitment:
   redirect_protocol: # Protocol of redirect_uri with force_redirect_protocol when mint enabled
 
 # Baidu Share
-# Available value:
-#    button | slide
+Available value:
+   button | slide
 # Warning: Baidu Share does not support https.
-#baidushare:
-##  type: button
+baidushare:
+ type: slide
 
 # Share
 # This plugin is more useful in China, make sure you known how to use it.
